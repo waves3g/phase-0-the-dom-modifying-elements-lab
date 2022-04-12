@@ -51,8 +51,8 @@ we've learned for traversing the DOM.
 
 Let's append `element` to `body` to start:
 
-```js
-document.body.append(element);
+``js
+document.body.append(eleme`nt);
 ```
 
 Now if you look at the Elements tab, you'll see our new (empty) `<div>` nested
